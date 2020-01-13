@@ -8,7 +8,7 @@ function WeatherAlert() {
 
   if (WeatherVal == 'Thunder' &&
      WeatherPast != 'Thunder'){
-    var emailAddress = 'rowan.dixon15@gmail.com';
+    var emailAddress = 'your.email@gmail.com';
     // Send Alert Email.
     var message = 'A thunderstorm at your house has just started. Travel Safely!'; // Second column
     var subject = 'Weather Alert!';
