@@ -143,5 +143,5 @@ while i<2:
     log_file.write("\n")
     log_file.flush()
     print("Logfile written")
-    # Sleep until the next scan
+
  
