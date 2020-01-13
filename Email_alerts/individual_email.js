@@ -8,7 +8,7 @@ function GetData() {
 
   if (GusHome == '1' &&
      GusHomePast == '0'){
-    var emailAddress = 'rowan.dixon15@gmail.com';
+    var emailAddress = 'your.email@gmail.com';
     // Send Alert Email.
     var message = 'Person C Has just arrived home'; // Second column
     var subject = 'Person C';
